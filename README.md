@@ -5,7 +5,7 @@ Professional Portfolio Page for Sean McElwain.  The purpose of Homework Assignme
 
 # URL: https://sean-mcelwain.github.io/portfolio_SM/
 
-# Screenshot
+# Screenshot:
 
 ![Screenshot](https://sean-mcelwain.github.io/portfolio_SM/assets/images/screenshot.jpg)
 
