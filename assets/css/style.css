@@ -62,10 +62,8 @@ a {
 }
 .profile-pic {
     flex-shrink: 3;
-    height: 66%;
-    width: 25%;
-    padding: 50px;
-    color: #ffffff;
+    height: 250px;
+    width: 250px;
     background-image: url("../images/profile-pic-circle-outlined.png");
     background-size: cover;
     background-position: center;
@@ -84,7 +82,7 @@ a {
 }
 
 .side-box {
-    flex: 50%;
+  
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -103,6 +101,7 @@ a {
 
 
 .content {
+    margin-right: 20px;
     width: 75%;
     display: inline-block;
     
@@ -169,6 +168,27 @@ a {
     margin-left: 25px;
 }
 
-@media (max-width: 800px) {
-    .side-panel, .content {
-      flex: 100%;
+/* For Phones etc */
+@media screen and (max-width: 600px) {
+    .header {
+        text-align: center;
+    }
+    .hero{
+        height: auto;
+        min-height: 200px;
+    }    
+    .profile-pic {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .content { 
+        width: 100%; 
+    }
+    .side-panel { 
+        display: none;
+    }
+    .textbox{
+        height: auto;
+        text-align: center;
+    }
+}
