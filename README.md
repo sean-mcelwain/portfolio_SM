@@ -7,8 +7,8 @@ Professional Portfolio Page for Sean McElwain.  The purpose of Homework Assignme
 
 # Screenshot
 
-![Screenshot](https://sean-mcelwain.github.io/Horiseon-Unique/assets/images/screenshot.jpg)
+![Screenshot](https://sean-mcelwain.github.io/portfolio_SM/assets/images/screenshot.jpg)
 
 # Mobile Screenshot:
 
-![Screenshot](https://sean-mcelwain.github.io/Horiseon-Unique/assets/images/screenshot_mobile.jpg)
+![Screenshot](https://sean-mcelwain.github.io/portfolio_SM/assets/images/screenshot_mobile.jpg)
