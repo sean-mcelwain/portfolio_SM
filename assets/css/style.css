@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #3c7592;
     color: #ffffff;
     overflow: auto;
 }
@@ -78,7 +78,7 @@ a {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #3c7592;
 }
 
 .side-box {
@@ -112,7 +112,7 @@ a {
     padding: 15px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #3c7592;
     color: #ffffff;
     overflow: auto;
 }
