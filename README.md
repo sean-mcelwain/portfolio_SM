@@ -12,3 +12,5 @@ Professional Portfolio Page for Sean McElwain.  The purpose of Homework Assignme
 # Mobile Screenshot:
 
 ![Screenshot](https://sean-mcelwain.github.io/portfolio_SM/assets/images/screenshot_mobile.jpg)
+
+
