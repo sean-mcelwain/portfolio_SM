@@ -27,4 +27,4 @@ Professional Portfolio Webpage for Sean McElwain. The purpose of Homework Assign
 GitHub Profile: https://github.com/sean-mcelwain.  
 Contact Me: sean.mcelwain.KUBootcamp@gmail.com.  
  
-For any question regarding this project, my preferred method of communication is via email. 
+For any question, my preferred method of communication is via email. 
