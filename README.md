@@ -2,7 +2,7 @@
 <a name='description'></a>
 # Description
 
-Professional Portfolio Webpage for Sean McElwain.  The purpose of Homework Assignment #7 is to update the basic portfolio page created in Assignment #2. 
+Professional Portfolio Webpage for Sean McElwain. The purpose of Homework Assignment #16 is to update the basic portfolio page created in Assignment #2 and previosuly updated in Assignment #7.
 
 # URL: https://sean-mcelwain.github.io/portfolio_SM/
 
